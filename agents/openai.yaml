@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interactive Research Assistant"
+  short_description: "Guide structured research preparation"
+  default_prompt: "Use $interactive-research-assistant to guide me from keywords to a research-ready study plan."
