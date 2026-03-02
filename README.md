@@ -79,7 +79,3 @@ Keywords:
 3. uncertainty estimation
 ```
 
-## Files
-
-- [SKILL.md](/Users/lkyldz19/Documents/New project/interactive-research-assistant/SKILL.md)
-- [agents/openai.yaml](/Users/lkyldz19/Documents/New project/interactive-research-assistant/agents/openai.yaml)
